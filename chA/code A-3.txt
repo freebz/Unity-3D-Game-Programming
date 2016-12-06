@@ -1,0 +1,9 @@
+// 코드 A-3  Data.txt 파일
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at justo lectus, eu
+ultrices diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+inceptos himenaeos. Curabitur laoreet nunc eget ante pharetra suscipit. Nulla ut orci
+eget nisl consectetur lacinia vel nec arcu. Vestibulum elementum posuere ultrices.
+Proin lacus tellus, venenatis sit amet rhoncus ut, porttitor nec elit. Mauris ante
+diam, porttitor a eleifend sed, scelerisque ac sapien. Morbi sed justo dolor, sit amet
+commodo urna.
